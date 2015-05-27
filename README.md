@@ -1,0 +1,2 @@
+# gonghaiming.github.io
+mypage
