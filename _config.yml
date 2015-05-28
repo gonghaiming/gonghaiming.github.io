@@ -8,14 +8,12 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : BBB
+title : Gong‘s page
 tagline: Site Tagline
 author :
   name : china
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  email : gonghaiming@icloud.com
+  github : gonghaiming
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
